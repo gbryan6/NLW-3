@@ -56,6 +56,7 @@
     align-items: center;
 
     transition: background-color 0.2s;
+    z-index: 1000;
 }
 
 #page-map .create-orphanage:hover{
